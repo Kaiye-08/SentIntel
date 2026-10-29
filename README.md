@@ -40,7 +40,7 @@ Give the model a spin in your browser—no install needed!
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/KhushiRajurkar/SentIntel.git
+git clone https://github.com/Kaiye-08/SentIntel.git
 cd SentIntel
 ```
 ### 2. Set up Python environment
